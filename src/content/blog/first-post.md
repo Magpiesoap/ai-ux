@@ -3,7 +3,7 @@ title: "Designing with AI in 2025"
 description: " A Friendly Guide to Smart, Human-Centered Strategy
 Hey there, friends! 👋"
 pubDate: "April 21 2025"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 ---
 
 Designing with AI in 2025: A Friendly Guide to Smart, Human-Centered Strategy
